@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-o30r6p.daya4d2ksl.lat/sitemap.xml
